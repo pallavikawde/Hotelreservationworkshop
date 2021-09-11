@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridlabz.HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-11T02:46:15" hostname="LAPTOP-V004507B" time="0.021">
+  <properties/>
+  <testcase name="givenHotelNameAndRatesShouldReturnTrue()" classname="com.bridlabz.HotelReservationTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
